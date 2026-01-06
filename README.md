@@ -1,4 +1,4 @@
 # tic-toc
 first repo
 <br>
-Author - Harikeerthan
+Author - Harikeerthan (NIT Calicut)
